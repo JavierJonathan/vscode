@@ -8,5 +8,4 @@ cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido u
 creación de las hojas "Letraset", las cuales contenian 
    pasajes de loremrem Ipsum,
     y más 
-    recientemente con software de autoedición, como por ejemplorem Aldus Page
-       el cual incluye versiones de loremrem Ipsum.        
+    recientemente con software de autoedición, como por ejemplorem
